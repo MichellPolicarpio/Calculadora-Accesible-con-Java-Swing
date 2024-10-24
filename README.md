@@ -78,4 +78,4 @@ git clone https://github.com/[tu-usuario]/calculadora-accesible.git
 ## 📞 Contacto
 
 - GitHub: MichellPolicarpio
-- Email: michELlpolicarpio@gmailcom
+- Email: michellpolicarpio@gmail.com
